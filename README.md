@@ -2,7 +2,7 @@
 
 Bu dosya Patika.dev tarafından hazırlanan veri Yapıları ve Algoritmalar dersleri sonunda uygulama projelerinin cevaplarıdır.
 
-![Project 1](C:\Users\umutp\Desktop\Patika Dersleri\VS Code\Patika-Odev-Proje1\Project 1.png)
+![Project 1](Project 1.png)
 
 ## Cevap 1
 1. * [22,27,16,2,18,6] n
