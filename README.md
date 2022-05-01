@@ -2,7 +2,7 @@
 
 Bu dosya Patika.dev tarafından hazırlanan veri Yapıları ve Algoritmalar dersleri sonunda uygulama projelerinin cevaplarıdır.
 
-![png](Project 1.png)
+![proje1](https://github.com/Umutpltf/Veri-Yap-lar-ve-Algoritmalar-Proje1/blob/24e8b6a266a0c8d0a9d7820e866673b5f233ea95/Project%201.png)
 
 ## Cevap 1
 1. * [22,27,16,2,18,6] n
